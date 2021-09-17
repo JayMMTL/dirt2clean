@@ -1,43 +1,26 @@
 ---
 templateKey: index-page
-title: Great coffee with a conscience
-image: /img/home-jumbotron.jpg
-heading: Great coffee with a conscience
-subheading: Support sustainable farming while enjoying a cup
+title: Dirt 2 Clean
+image: /img/home-jumbotron.png
+heading: Commercial and Residential Cleaning
+subheading: Serving greater Montreal for more than 15 years
 mainpitch:
-  title: Why Kaldi
+  title: Why Dirt 2 Clean
   description: >
-    Kaldi is the coffee store for everyone who believes that great coffee
-    shouldn't just taste good, it should do good too. We source all of our beans
-    directly from small scale sustainable farmers and make sure part of the
-    profits are reinvested in their communities.
+    Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla et purus iaculis, maximus velit et, dignissim dui. Pellentesque a pretium dui. Curabitur dictum, tortor sit amet laoreet suscipit, diam mi tempor ex, a blandit erat nisi et elit. Etiam aliquam ex sed est gravida, et aliquam libero elementum. Nunc vulputate lorem nec efficitur dignissim. Mauris convallis justo velit.
 description: >-
-  Kaldi is the ultimate spot for coffee lovers who want to learn about their
-  java’s origin and support the farmers that grew it. We take coffee production,
-  roasting and brewing seriously and we’re glad to pass that knowledge to
-  anyone.
+  Pellentesque fringilla, tellus ut rutrum malesuada, dolor diam suscipit ante, et hendrerit tellus felis vitae libero. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Proin tincidunt laoreet ipsum. In eget felis pharetra, vehicula erat in, euismod ipsum. Maecenas ullamcorper dui lorem, in dapibus diam eleifend quis.
 intro:
   blurbs:
     - image: /img/coffee.png
       text: >
-        We sell green and roasted coffee beans that are sourced directly from
-        independent farmers and farm cooperatives. We’re proud to offer a
-        variety of coffee beans grown with great care for the environment and
-        local communities. Check our post or contact us directly for current
-        availability.
+        Aenean vitae dignissim mauris. Vivamus dictum lectus quis velit mattis fermentum a vel metus. Pellentesque cursus placerat mollis. Suspendisse potenti. Vestibulum sit amet suscipit lacus. Sed dolor diam, mattis eu finibus vel, consectetur quis magna. Suspendisse id ipsum eu nulla lobortis consectetur. Etiam et efficitur massa, nec efficitur dolor.
     - image: /img/coffee-gear.png
       text: >
-        We offer a small, but carefully curated selection of brewing gear and
-        tools for every taste and experience level. No matter if you roast your
-        own beans or just bought your first french press, you’ll find a gadget
-        to fall in love with in our shop.
+        Duis lacinia mattis risus at hendrerit. Fusce tempus orci justo, sit amet fringilla turpis porttitor eget. Quisque malesuada erat non ex accumsan interdum. Suspendisse tortor lacus, blandit eget egestas eu, hendrerit eu nulla. Sed scelerisque, velit vel tempor tincidunt, neque lorem sollicitudin nibh, porta hendrerit est neque sed lorem.
     - image: /img/tutorials.png
       text: >
-        Love a great cup of coffee, but never knew how to make one? Bought a
-        fancy new Chemex but have no clue how to use it? Don't worry, we’re here
-        to help. You can schedule a custom 1-on-1 consultation with our baristas
-        to learn anything you want to know about coffee roasting and brewing.
-        Email us or call the store for details.
+        Mauris eu tincidunt elit. Donec aliquam luctus tellus, in gravida sapien blandit nec. Cras est lectus, consequat nec tortor luctus, fringilla venenatis lacus. Nam imperdiet, augue vel cursus aliquet, odio nulla fringilla sem, id ullamcorper ipsum mauris vitae risus. Aliquam vitae lacus eget est faucibus aliquam. Phasellus consequat vulputate odio eget tempus. Nam ultricies purus tortor, eget maximus sem iaculis in.
     - image: /img/meeting-space.png
       text: >
         We believe that good coffee has the power to bring people together.
@@ -45,19 +28,13 @@ intro:
         space where you can hang out with fellow coffee lovers and learn about
         coffee making techniques. All of the artwork on display there is for
         sale. The full price you pay goes to the artist.
-  heading: What we offer
+  heading: Our Services
   description: >
-    Kaldi is the ultimate spot for coffee lovers who want to learn about their
-    java’s origin and support the farmers that grew it. We take coffee
-    production, roasting and brewing seriously and we’re glad to pass that
-    knowledge to anyone. This is an edit via identity...
+    Maecenas nisl odio, mollis quis ipsum ac, gravida ultrices magna. Cras at ipsum enim. Donec mi ex, condimentum at placerat ac, euismod vitae risus. Pellentesque lacinia nulla in metus euismod varius. Proin vel est augue. Aenean auctor ultricies pharetra. Pellentesque id est eu elit ornare tincidunt. Interdum et malesuada fames ac ante ipsum primis in faucibus.
 main:
-  heading: Great coffee with no compromises
+  heading: We focus on quality
   description: >
-    We hold our coffee to the highest standards from the shrub to the cup.
-    That’s why we’re meticulous and transparent about each step of the coffee’s
-    journey. We personally visit each farm to make sure the conditions are
-    optimal for the plants, farmers and the local environment.
+    Vestibulum auctor massa ante. In hac habitasse platea dictumst. Cras eget nibh est. Proin a nunc et quam dictum suscipit. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Proin tempus scelerisque dolor, vitae tincidunt risus. Sed bibendum fringilla justo euismod vestibulum.
   image1:
     alt: A close-up of a paper filter filled with ground coffee
     image: /img/products-grid3.jpg
